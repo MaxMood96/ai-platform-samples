@@ -39,7 +39,7 @@
     "@jupyterlab/mainmenu": "^0.8.0",
     "@jupyterlab/notebook": "^0.19.2",
     "@phosphor/disposable": "^1.1.2",
-    "@phosphor/widgets": "^1.6.0",
+    "@phosphor/widgets": "^1.9.3",
     "file-system": "^2.2.2",
     "fs-extra": "^7.0.1",
     "typestyle": "^2.0.0"
