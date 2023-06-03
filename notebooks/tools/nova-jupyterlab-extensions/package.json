@@ -33,7 +33,7 @@
   "dependencies": {
     "@jupyterlab/application": "^0.19.1",
     "@jupyterlab/apputils": "^0.19.1",
-    "@jupyterlab/coreutils": "^2.2.1",
+    "@jupyterlab/coreutils": "^5.0.6",
     "@jupyterlab/docregistry": "^0.19.1",
     "@jupyterlab/filebrowser": "^0.19.1",
     "@jupyterlab/mainmenu": "^0.8.0",
